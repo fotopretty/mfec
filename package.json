@@ -1,0 +1,24 @@
+{
+  "name": "mfec",
+  "version": "1.0.0",
+  "description": "mfec",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fotopretty/mfec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fotopretty/mfec/issues"
+  },
+  "homepage": "https://github.com/fotopretty/mfec#readme"
+}
